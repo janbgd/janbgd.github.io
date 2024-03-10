@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Energy Saving Project for PYP6 at Manglerud School"
 author_profile: true
 redirect_from: 
   - /about/
